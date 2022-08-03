@@ -1,0 +1,9 @@
+{
+  "name": "MusicMod",
+  "version_number": "0.0.1",
+  "website_url": "https://github.com/joeyparrish/valheim-musicmod",
+  "description": "MusicMod is a base mod that you can depend on to add custom music to your own mod.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1901"
+  ]
+}
